@@ -11,8 +11,4 @@
     "path": "/about",
     "text": "About"
   }
-    {
-    "path": "/about/cats",
-    "text": "Cats"
-  }
 ]
