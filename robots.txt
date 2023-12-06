@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://stshetenhelm.github.io/sts-canopy
+
+# Sitemaps
+Sitemap: https://stshetenhelm.github.io/sts-canopy/sitemap.xml
